@@ -10,10 +10,10 @@ class Crawler:
 	
 	def __init__(self):
 		self.api = ''
-		self.consumer_key = ''
-		self.consumer_secret = ''
-		self.access_token = ''
-		self.access_secret = ''
+		self.consumer_key = 'kTP7Uog4vwlOl8RS5qvCr0GeU'
+		self.consumer_secret = '5NpBZgTJex7TkdpDILoE6FC4qmO9WEvp6zE95qWovhwAplAo5x'
+		self.access_token = '994133061049581568-FOKWPLkZTk0mdryAB6NfrGRyUB0VVSo'
+		self.access_secret = 'dHEtPkQmhcMRexk50jq3UG17bGAEAuTWYzRDzYfPta62S'
 		self.createAPI()
 		create_project_dir(TWITTER_DIRECTORY)
 
