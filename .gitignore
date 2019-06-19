@@ -1,3 +1,8 @@
 Twitter
 __pycache__
 crawler1.py
+crawler.pyc
+general.pyc
+.idea
+.DS_Store
+
